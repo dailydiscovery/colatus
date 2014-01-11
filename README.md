@@ -1,4 +1,4 @@
-colatus
+Colatus
 =======
 
-clarify; purify
+Clarify, Purify...
